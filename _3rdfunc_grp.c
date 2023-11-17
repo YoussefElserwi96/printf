@@ -99,6 +99,7 @@ int print_non_printable(va_list types, char buffer[],
  * in reverse
  * @buffer: buffer of array to handle printing
  * @flags:  for active flags
+ * @types: the arguments
  * @width: widths getter
  * @precision: Precision spec
  * @size: Size spec
